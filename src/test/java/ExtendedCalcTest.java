@@ -13,7 +13,7 @@ import org.mockito.junit.jupiter.MockitoExtension;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
 
-@Tag("Extended")
+@Tag("integration")
 @ExtendWith(MockitoExtension.class)
 public class ExtendedCalcTest {
 
